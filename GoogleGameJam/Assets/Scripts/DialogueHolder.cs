@@ -21,7 +21,7 @@ namespace DialogueSystem
                 yield return new WaitUntil(() => transform.GetChild(i).GetComponent<DialogueLine>().finished);
              }
             gameObject.SetActive(false);
-            SceneManager.LoadSceneAsync("CutScene");
+            SceneManager.LoadSceneAsync("Burak-Platform");
         }
 
         private void Deactivete()
