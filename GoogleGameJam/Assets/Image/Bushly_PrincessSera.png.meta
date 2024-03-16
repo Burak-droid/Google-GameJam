@@ -134,7 +134,553 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174ca4b50ea83ab449c18bbe281f0855
+      internalID: -1499422389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45c2a486a24ddd4180f1bcd996b693b
+      internalID: 1199934045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0244fb64593d35f478ed2a0017b07cd4
+      internalID: 433216335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b600eae75cd23ae4eb2943f5d9d0af7b
+      internalID: -920060559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_29
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc202104f63ba6249baba9a991880de4
+      internalID: -2000090472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473c0c338aac43b409541fb191dfd06d
+      internalID: -791197499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95439c8364b560e4f896bf77d38b8c0a
+      internalID: 1472308853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203436c4d7ee3284fb827c7ed0674df7
+      internalID: 1129919289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_33
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2808283f19a6ef64db3cdafc08bda4e8
+      internalID: 206547082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e087828b21a12843bedb895ec27c518
+      internalID: -142412310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3748afaf4cab2a6469201a119629b18a
+      internalID: 2062626052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39533e191028fcc4294d716cf4a4ef30
+      internalID: -356500813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bdcca695aef8544abd29182caea82a
+      internalID: 927203790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f0347ff6b6c0c449d52364a1c68e68
+      internalID: 1948228769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8dd680a62cfb1941aa10d74df4a84dc
+      internalID: 1426005696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_72
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583d682d425b9548bf9ea68891ef6b8
+      internalID: 216250609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df954e822008e63439f8a77388bca8a7
+      internalID: -528288364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6994a1cca8ccd4e95189e45ecbc8be
+      internalID: -660230584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334b40b229654544995943ae87b0afb6
+      internalID: 1732037504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5791e3909711f4c4f80dd5da12cb6b0c
+      internalID: 1057532186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_102
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8567e33229cec4a44ab285d5fc093746
+      internalID: -99928255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_135
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 558c986207e7b7f4684fb1966c9014dc
+      internalID: 631759209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_137
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8248e3752a1b47aec2ddbcb5e1ac3
+      internalID: 1829403673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_138
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dff8e5a0c4d4349a84905a4fb42780
+      internalID: -576639086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_150
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f98094ff497a0e4dacafa7547d50e9a
+      internalID: 582802149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bushly_PrincessSera_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86c41449ccc2474d9bdff5153a34e0f
+      internalID: 1873548610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -145,7 +691,161 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bushly_PrincessSera_0: 1969959537
+      Bushly_PrincessSera_1: -1304150395
+      Bushly_PrincessSera_10: 25686873
+      Bushly_PrincessSera_100: 326565152
+      Bushly_PrincessSera_101: -1013117769
+      Bushly_PrincessSera_102: -99928255
+      Bushly_PrincessSera_103: 567720851
+      Bushly_PrincessSera_104: 1948014728
+      Bushly_PrincessSera_105: -1382344850
+      Bushly_PrincessSera_106: 293349910
+      Bushly_PrincessSera_107: 1843231012
+      Bushly_PrincessSera_108: 629790556
+      Bushly_PrincessSera_109: 1052731511
+      Bushly_PrincessSera_11: 477631504
+      Bushly_PrincessSera_110: -1489250627
+      Bushly_PrincessSera_111: 1214965160
+      Bushly_PrincessSera_112: 1745145019
+      Bushly_PrincessSera_113: -1822515216
+      Bushly_PrincessSera_114: -495079918
+      Bushly_PrincessSera_115: 238143578
+      Bushly_PrincessSera_116: -102937558
+      Bushly_PrincessSera_117: -208767952
+      Bushly_PrincessSera_118: -1301142941
+      Bushly_PrincessSera_119: 929593893
+      Bushly_PrincessSera_12: 1265155375
+      Bushly_PrincessSera_120: 449163609
+      Bushly_PrincessSera_121: -1209549657
+      Bushly_PrincessSera_122: -1212654457
+      Bushly_PrincessSera_123: 1317491526
+      Bushly_PrincessSera_124: 619345464
+      Bushly_PrincessSera_125: -1015919436
+      Bushly_PrincessSera_126: 260910992
+      Bushly_PrincessSera_127: 300777974
+      Bushly_PrincessSera_128: -2106559961
+      Bushly_PrincessSera_129: -519104496
+      Bushly_PrincessSera_13: 129794027
+      Bushly_PrincessSera_130: 1636047965
+      Bushly_PrincessSera_131: 1295293444
+      Bushly_PrincessSera_132: 1681115242
+      Bushly_PrincessSera_133: -1306491797
+      Bushly_PrincessSera_134: 1943768357
+      Bushly_PrincessSera_135: 631759209
+      Bushly_PrincessSera_136: -1887183611
+      Bushly_PrincessSera_137: 1829403673
+      Bushly_PrincessSera_138: -576639086
+      Bushly_PrincessSera_139: -314560884
+      Bushly_PrincessSera_14: 1601074756
+      Bushly_PrincessSera_140: 142060127
+      Bushly_PrincessSera_141: -2015729034
+      Bushly_PrincessSera_142: -1013962371
+      Bushly_PrincessSera_143: 746876992
+      Bushly_PrincessSera_144: -1675358235
+      Bushly_PrincessSera_145: 1182766833
+      Bushly_PrincessSera_146: -1138255898
+      Bushly_PrincessSera_147: 419654107
+      Bushly_PrincessSera_148: -2015655302
+      Bushly_PrincessSera_149: -470968348
+      Bushly_PrincessSera_15: -1499422389
+      Bushly_PrincessSera_150: 582802149
+      Bushly_PrincessSera_151: 1873548610
+      Bushly_PrincessSera_152: -878694077
+      Bushly_PrincessSera_153: 1235333328
+      Bushly_PrincessSera_16: 1199934045
+      Bushly_PrincessSera_17: 433216335
+      Bushly_PrincessSera_18: -920060559
+      Bushly_PrincessSera_19: 1977353842
+      Bushly_PrincessSera_2: 1944662349
+      Bushly_PrincessSera_20: 1793954376
+      Bushly_PrincessSera_21: -1528967176
+      Bushly_PrincessSera_22: -365417353
+      Bushly_PrincessSera_23: 1479636687
+      Bushly_PrincessSera_24: 1295945221
+      Bushly_PrincessSera_25: -1145619557
+      Bushly_PrincessSera_26: -101584532
+      Bushly_PrincessSera_27: -1581459427
+      Bushly_PrincessSera_28: -1156353909
+      Bushly_PrincessSera_29: -2000090472
+      Bushly_PrincessSera_3: -3586063
+      Bushly_PrincessSera_30: -791197499
+      Bushly_PrincessSera_31: 1472308853
+      Bushly_PrincessSera_32: 1129919289
+      Bushly_PrincessSera_33: 206547082
+      Bushly_PrincessSera_34: -142412310
+      Bushly_PrincessSera_35: 235110621
+      Bushly_PrincessSera_36: -2008471989
+      Bushly_PrincessSera_37: -3762615
+      Bushly_PrincessSera_38: 230262668
+      Bushly_PrincessSera_39: -1107782243
+      Bushly_PrincessSera_4: 1126401785
+      Bushly_PrincessSera_40: 2099249969
+      Bushly_PrincessSera_41: 352232813
+      Bushly_PrincessSera_42: 337681047
+      Bushly_PrincessSera_43: 2062626052
+      Bushly_PrincessSera_44: -356500813
+      Bushly_PrincessSera_45: 927203790
+      Bushly_PrincessSera_46: 1948228769
+      Bushly_PrincessSera_47: 727331917
+      Bushly_PrincessSera_48: -794275046
+      Bushly_PrincessSera_49: -1903944831
+      Bushly_PrincessSera_5: 1499135662
+      Bushly_PrincessSera_50: -1953773070
+      Bushly_PrincessSera_51: -214857064
+      Bushly_PrincessSera_52: -770594420
+      Bushly_PrincessSera_53: -279617221
+      Bushly_PrincessSera_54: 439923747
+      Bushly_PrincessSera_55: 1290549865
+      Bushly_PrincessSera_56: -682794805
+      Bushly_PrincessSera_57: 899903176
+      Bushly_PrincessSera_58: 1166660155
+      Bushly_PrincessSera_59: 482848837
+      Bushly_PrincessSera_6: 1744422471
+      Bushly_PrincessSera_60: -1122513783
+      Bushly_PrincessSera_61: 2051195994
+      Bushly_PrincessSera_62: 1710115791
+      Bushly_PrincessSera_63: -1750538656
+      Bushly_PrincessSera_64: -879027578
+      Bushly_PrincessSera_65: 479103059
+      Bushly_PrincessSera_66: 843509209
+      Bushly_PrincessSera_67: -1791893598
+      Bushly_PrincessSera_68: -1106115431
+      Bushly_PrincessSera_69: 1186260231
+      Bushly_PrincessSera_7: -989683953
+      Bushly_PrincessSera_70: -224778784
+      Bushly_PrincessSera_71: 1426005696
+      Bushly_PrincessSera_72: 216250609
+      Bushly_PrincessSera_73: -528288364
+      Bushly_PrincessSera_74: -660230584
+      Bushly_PrincessSera_75: 1732037504
+      Bushly_PrincessSera_76: 1057532186
+      Bushly_PrincessSera_77: 1307030210
+      Bushly_PrincessSera_78: -2028827724
+      Bushly_PrincessSera_79: -254657087
+      Bushly_PrincessSera_8: 1380845447
+      Bushly_PrincessSera_80: -505759289
+      Bushly_PrincessSera_81: -686315714
+      Bushly_PrincessSera_82: 1598109201
+      Bushly_PrincessSera_83: -1605584778
+      Bushly_PrincessSera_84: 849099395
+      Bushly_PrincessSera_85: 1421290099
+      Bushly_PrincessSera_86: 457580413
+      Bushly_PrincessSera_87: 1413897140
+      Bushly_PrincessSera_88: 1301516278
+      Bushly_PrincessSera_89: 302788809
+      Bushly_PrincessSera_9: -675605637
+      Bushly_PrincessSera_90: 85796310
+      Bushly_PrincessSera_91: 584567493
+      Bushly_PrincessSera_92: 316877107
+      Bushly_PrincessSera_93: -1772726217
+      Bushly_PrincessSera_94: 1677118405
+      Bushly_PrincessSera_95: -802160682
+      Bushly_PrincessSera_96: -1496457520
+      Bushly_PrincessSera_97: -1359928605
+      Bushly_PrincessSera_98: -493690130
+      Bushly_PrincessSera_99: -688456342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
