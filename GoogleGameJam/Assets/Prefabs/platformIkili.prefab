@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1881064287594922242}
   - component: {fileID: 1350800403366604414}
   - component: {fileID: 7118284287849977887}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformIkili
   m_TagString: Untagged
   m_Icon: {fileID: 0}

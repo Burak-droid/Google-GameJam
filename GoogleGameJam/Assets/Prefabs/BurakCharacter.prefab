@@ -301,8 +301,8 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 256
-  firePoint: {fileID: 0}
-  bulletPrefab: {fileID: 0}
+  firePoint: {fileID: 7936016637611745565}
+  bulletPrefab: {fileID: 809348980318315907, guid: d6a335b856635c8458e48360e9b525fb, type: 3}
   anim: {fileID: 0}
 --- !u!1 &1111324919653558682
 GameObject:
