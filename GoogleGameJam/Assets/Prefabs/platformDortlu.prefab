@@ -263,7 +263,7 @@ GameObject:
   - component: {fileID: 822633951799573142}
   - component: {fileID: 3990672167987278878}
   - component: {fileID: 3621880458119497132}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformDortlu
   m_TagString: Untagged
   m_Icon: {fileID: 0}

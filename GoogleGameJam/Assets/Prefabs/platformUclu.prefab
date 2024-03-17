@@ -179,7 +179,7 @@ GameObject:
   - component: {fileID: 6620558201639607708}
   - component: {fileID: 8524469876135195173}
   - component: {fileID: 371047626951495809}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: platformUclu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
