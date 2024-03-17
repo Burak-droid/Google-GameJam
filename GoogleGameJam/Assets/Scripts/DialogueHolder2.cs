@@ -1,4 +1,4 @@
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -21,6 +21,7 @@ namespace DialogueSystem
                 yield return new WaitUntil(() => transform.GetChild(i).GetComponent<DialogueLine>().finished);
              }
             gameObject.SetActive(false);
+            SceneManager.LoadSceneAsync("Kapanış");
         }
 
         private void Deactivete()

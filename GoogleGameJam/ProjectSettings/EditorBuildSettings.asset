@@ -26,6 +26,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/CutScene.unity
     guid: c88036ff780cde74a85ec0a97e95739a
+  - enabled: 1
+    path: "Assets/Scenes/Kapan\u0131\u015F.unity"
+    guid: 1d30ddda2390caa4aa7b45af57095da8
   - enabled: 0
     path: Assets/Zal/Scene/NextScene.unity
     guid: cafaa03f0ee66a24c97dfadcb71a7435
