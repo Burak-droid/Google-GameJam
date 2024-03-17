@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7b3b4c445f5af684d9bc9995f3d4ec7a
+guid: 721fb769964692d4aa1a9cd17c9457de
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -136,54 +136,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: items_0
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 50
-        width: 11
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 40ae8bd50f5f41d40ba52b965a6277e3
-      internalID: 203429329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_1
+      name: HealthBar DARK_0
       rect:
         serializedVersion: 2
         x: 19
-        y: 51
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8c04f2075dda099499b1a12d894e484a
-      internalID: -353054376
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_2
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 52
-        width: 7
+        y: 147
+        width: 57
         height: 7
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -192,20 +150,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7afeacb128001b246bef6086820ae87a
-      internalID: -475220129
+      spriteID: ea08d33f71e476840ae307ba1e256f3a
+      internalID: -523732632
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_3
+      name: HealthBar DARK_1
       rect:
         serializedVersion: 2
-        x: 38
-        y: 36
-        width: 24
-        height: 28
+        x: 23
+        y: 150
+        width: 58
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,124 +171,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1485bafe8f7a81042a7cdc8040e77036
-      internalID: -991379469
+      spriteID: 4fc7033d4e5c8b7419debd17053e15f1
+      internalID: -786269939
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_4
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 36
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3c4515a638ca3bd4a8eea5d43e585f79
-      internalID: 17229413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_5
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 36
-        width: 5
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 69f80c4393c27364086282c4c3379045
-      internalID: 801836675
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_6
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 21
-        width: 9
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3233a8dd2dbb34f46befb5823f7cd737
-      internalID: 846571016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_7
+      name: HealthBar DARK_2
       rect:
         serializedVersion: 2
         x: 18
-        y: 21
-        width: 9
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 347fb32651a85774d9aecec3018c5afc
-      internalID: -1005017477
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_8
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 21
-        width: 7
-        height: 5
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a2f22dd75e926f4fa2251308672a95b
-      internalID: -825688907
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: items_9
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 18
-        width: 10
+        y: 134
+        width: 64
         height: 10
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -339,20 +192,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 86b8f0075c59f2940b1bb0f8e26511d3
-      internalID: 291765995
+      spriteID: 926783209cb768b4eb7ffdc3c7a6fabb
+      internalID: -1993678698
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_10
+      name: HealthBar DARK_3
       rect:
         serializedVersion: 2
-        x: 4
-        y: 0
-        width: 9
-        height: 13
+        x: 9
+        y: 100
+        width: 76
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -360,20 +213,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c59032c427f5b641828b17b27777226
-      internalID: 1827338677
+      spriteID: e17dd5937ea626744b219c3ff17800a0
+      internalID: -1380268902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_11
+      name: HealthBar DARK_4
       rect:
         serializedVersion: 2
-        x: 20
-        y: 0
-        width: 9
-        height: 13
+        x: 28
+        y: 119
+        width: 56
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -381,20 +234,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 040a8a0eef14e8d4b81d590c3cefee9e
-      internalID: 527408138
+      spriteID: 65c9460d46a830247aa578b3c8207982
+      internalID: -1460838563
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_12
+      name: HealthBar DARK_5
       rect:
         serializedVersion: 2
-        x: 36
-        y: 0
-        width: 9
-        height: 13
+        x: 9
+        y: 71
+        width: 76
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,20 +255,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3c171aeeab7de5418656fd7b8f29bb6
-      internalID: 437817447
+      spriteID: a58e77bf5f6c64b46a2537dd85cce109
+      internalID: -422352223
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: items_13
+      name: HealthBar DARK_6
       rect:
         serializedVersion: 2
-        x: 52
-        y: 0
-        width: 9
-        height: 13
+        x: 28
+        y: 90
+        width: 56
+        height: 4
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -423,8 +276,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddd053e868596d84ca408753490935d6
-      internalID: 1384569735
+      spriteID: 79d8583581c30064fba60f6c2416bb2f
+      internalID: 140877258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar DARK_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 57
+        width: 59
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8412305d4d49eb84e9e04d173183dc9a
+      internalID: 887098297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar DARK_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 42
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbb8318618c3ff429ee141dc7c25fc2
+      internalID: -1756534258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar DARK_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 59
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbbd4181d526a44387326cb646a25f4
+      internalID: -1048843781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HealthBar DARK_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 11
+        width: 61
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1e2194313d8e4499cdd28c52a1fb10
+      internalID: -1939904662
       vertices: []
       indices: 
       edges: []
@@ -440,20 +377,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      items_0: 203429329
-      items_1: -353054376
-      items_10: 1827338677
-      items_11: 527408138
-      items_12: 437817447
-      items_13: 1384569735
-      items_2: -475220129
-      items_3: -991379469
-      items_4: 17229413
-      items_5: 801836675
-      items_6: 846571016
-      items_7: -1005017477
-      items_8: -825688907
-      items_9: 291765995
+      HealthBar DARK_0: -523732632
+      HealthBar DARK_1: -786269939
+      HealthBar DARK_10: -1939904662
+      HealthBar DARK_2: -1993678698
+      HealthBar DARK_3: -1380268902
+      HealthBar DARK_4: -1460838563
+      HealthBar DARK_5: -422352223
+      HealthBar DARK_6: 140877258
+      HealthBar DARK_7: 887098297
+      HealthBar DARK_8: -1756534258
+      HealthBar DARK_9: -1048843781
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

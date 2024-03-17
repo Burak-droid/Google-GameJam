@@ -9,10 +9,22 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Zal/Scene/MainScene.unity
+    path: Assets/Scenes/MainScene.unity
     guid: 033ee1969b55ff740aac8dc71efccbbb
   - enabled: 1
-    path: Assets/Burak-Cutscene/CutScene.unity
+    path: Assets/Scenes/Tutorial.unity
+    guid: 0d3876af76e3a5b49a936f04c81d01d9
+  - enabled: 1
+    path: Assets/Scenes/Burak-Platform.unity
+    guid: f356e409ede24d94b8de3e4fb9101c44
+  - enabled: 1
+    path: Assets/Scenes/Eren-Platform.unity
+    guid: 4cf4130761bffe24b90a6e548091cf6a
+  - enabled: 1
+    path: Assets/Scenes/HappyEnding.unity
+    guid: f9d0f204d09353042a5313dad2a3f4aa
+  - enabled: 1
+    path: Assets/Scenes/CutScene.unity
     guid: c88036ff780cde74a85ec0a97e95739a
   - enabled: 0
     path: Assets/Zal/Scene/NextScene.unity
