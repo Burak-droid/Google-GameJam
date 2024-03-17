@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Zal/Scene/MainScene.unity
+    guid: 033ee1969b55ff740aac8dc71efccbbb
+  - enabled: 1
+    path: Assets/Zal/Scene/NextScene.unity
+    guid: cafaa03f0ee66a24c97dfadcb71a7435
   m_configObjects: {}
