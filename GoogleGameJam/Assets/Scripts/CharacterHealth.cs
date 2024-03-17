@@ -36,10 +36,7 @@ public class CharacterHealth : MonoBehaviour
             if (canSayisi <= 0)
             {
                 SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().name);
-
             }
         }
     }
-
-   
 }
