@@ -14,8 +14,11 @@ public class ButtonController : MonoBehaviour
 
     public void Option()
     {
-        OptionPanel.alpha = 1;
-        OptionPanel.blocksRaycasts = true;
+        SceneManager.LoadSceneAsync("Tutorial");
+    }
+    public void mainmenu()
+    {
+        SceneManager.LoadSceneAsync("MainScene");
     }
 
     public void Back()

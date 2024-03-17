@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Enemy
   - Platforms
+  - border
+  - Border
+  - cave
+  - Prenses
   layers:
   - Default
   - TransparentFX
