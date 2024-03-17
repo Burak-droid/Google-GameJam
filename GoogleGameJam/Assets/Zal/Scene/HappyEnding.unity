@@ -1708,8 +1708,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d38e0e673c369db4cb815355979e209b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  input: "Ey sevgilim, bu kalbim sana ait! Seninle ge\xE7irdi\u011Fim her an, benim
-    i\xE7in bir hazinedir."
+  input: "Sevgili prensesim, senin i\xE7in dikenli ormanlar\u0131 a\u015Ft\u0131m
+    ve cad\u0131y\u0131 alt ettim . Senin g\xFCzelli\u011Fin ve saf sevgin i\xE7in
+    her \u015Feyi yapar\u0131m."
   textColor: {r: 1, g: 1, b: 1, a: 1}
   textFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   delay: 0.1
@@ -1810,8 +1811,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d38e0e673c369db4cb815355979e209b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  input: "(B\xFCy\xFCc\xFC belirir ve b\xFCy\xFC yapar, Prens aniden kurba\u011Faya
-    d\xF6n\xFC\u015F\xFCr.)"
+  input: "Senin g\xFCl\xFC\u015F\xFCn benim i\xE7in her \u015Feyden de\u011Ferli.
+    Seninle ge\xE7irdi\u011Fim her an benim i\xE7in bir hazine. Seni sonsuza dek
+    sevece\u011Fim, prensesim."
   textColor: {r: 1, g: 1, b: 1, a: 1}
   textFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   delay: 0.1
@@ -2313,7 +2315,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d38e0e673c369db4cb815355979e209b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  input: 'Kvaak! '
+  input: "Ve ben de seni sonsuza dek sevece\u011Fim, sevgili prensim. Seninle birlikte
+    olmak, hayat\u0131m\u0131n en b\xFCy\xFCk mutlulu\u011Fu."
   textColor: {r: 1, g: 1, b: 1, a: 1}
   textFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   delay: 0.1
@@ -2757,8 +2760,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d38e0e673c369db4cb815355979e209b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  input: "Ve ben de seninle ayn\u0131 duygular\u0131 payla\u015F\u0131yorum, sevgilim.
-    Sen benim i\xE7in \xE7ok de\u011Ferlisin."
+  input: "\"Ey benim cesur prensim, senin cesaretin ve sevgin beni her zaman b\xFCy\xFCl\xFCyor.
+    Seninle olmak benim i\xE7in bir ayr\u0131cal\u0131k. Seninle birlikte olmak i\xE7in
+    her t\xFCrl\xFC zorlu\u011Fu g\xF6ze al\u0131r\u0131m."
   textColor: {r: 1, g: 1, b: 1, a: 1}
   textFont: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
   delay: 0.1
